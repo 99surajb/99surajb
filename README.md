@@ -4,17 +4,6 @@ Hi 👋! i'm [Suraj Bhise], a passionate self-taught full stack web developer an
 - 💼 any freelance work? do reach, [email](mailto:bsuraj2610@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 - 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 ![241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d](https://github.com/99surajb/99surajb/assets/115926149/fd0e7df6-320f-49c7-8bfa-d91791f91b02)
 
 ###
