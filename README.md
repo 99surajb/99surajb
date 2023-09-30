@@ -3,6 +3,7 @@ Hi 👋! i'm [Suraj Bhise], a passionate self-taught full stack web developer an
 
 - 💼 any freelance work? do reach, [email](mailto:bsuraj2610@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- 
 
 
 ###
@@ -14,7 +15,7 @@ Hi 👋! i'm [Suraj Bhise], a passionate self-taught full stack web developer an
 
 ###
 
-https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif
+![241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d](https://github.com/99surajb/99surajb/assets/115926149/fd0e7df6-320f-49c7-8bfa-d91791f91b02)
 
 ###
 
