@@ -1,10 +1,9 @@
-hi, i'm [Suraj Bhise], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi 👋! i'm [Suraj Bhise], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 - 💼 any freelance work? do reach, [email](mailto:bsuraj2610@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -15,7 +14,7 @@ hi, i'm [Suraj Bhise], a passionate self-taught full stack web developer and a f
 
 ###
 
-<img align="right" [[height="150" src="https://i.imgflip.com/65efzo.gif](https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif)](https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif)"  />
+<img align="right" https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  />
 
 ###
 
